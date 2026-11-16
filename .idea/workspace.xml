@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1967628c-25b4-4f60-9658-49cf6ea030ce" name="Changes" comment="lab2 complete" />
+    <list default="true" id="1967628c-25b4-4f60-9658-49cf6ea030ce" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PTPM-VKI-kuznetsov.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PTPM-VKI-kuznetsov.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +35,73 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.00000000900158" />
+      <entry key="S5" value="1.0009169381629583" />
+      <entry key="S10" value="1.0428236927457302" />
+      <entry key="S30" value="1.555659858698429" />
+      <entry key="S60" value="2.0717659363707406" />
+      <entry key="M2" value="2.6170062157717187" />
+      <entry key="M5" value="3.5791431133616856" />
+      <entry key="M10" value="4.402158536025954" />
+      <entry key="M15" value="4.816544451646532" />
+      <entry key="M30" value="5.337960067409014" />
+      <entry key="H1" value="5.648898683215865" />
+      <entry key="H2" value="5.819074598241013" />
+      <entry key="H4" value="5.9081464156014265" />
+      <entry key="D1" value="5.984493742227978" />
+      <entry key="W1" value="5.997779932730092" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659363289248455" />
+      <entry key="MS500" value="0.9930924954370359" />
+      <entry key="S2" value="0.9982686415819847" />
+      <entry key="S5" value="1.0002233348052476" />
+      <entry key="S10" value="1.0424608859845892" />
+      <entry key="S30" value="1.555473718989417" />
+      <entry key="S60" value="2.0716384189983295" />
+      <entry key="M2" value="2.616918938310162" />
+      <entry key="M5" value="3.5790850201611955" />
+      <entry key="M10" value="4.402117754033269" />
+      <entry key="M15" value="4.8165130822877344" />
+      <entry key="M30" value="5.337941668985482" />
+      <entry key="H1" value="5.64888865661835" />
+      <entry key="H2" value="5.819069356013474" />
+      <entry key="H4" value="5.908143734245464" />
+      <entry key="D1" value="5.984493286700351" />
+      <entry key="W1" value="5.997779867439665" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3KIxyANAOMxM7aCyvAtoGOs6FqT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +117,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lab__3"
+    "git-widget-placeholder": "Lab__3",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -100,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791263409165</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <option name="closed" value="true" />
+      <created>1794851248285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794851248285</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,9 +199,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
