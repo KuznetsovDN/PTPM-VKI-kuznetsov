@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1967628c-25b4-4f60-9658-49cf6ea030ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lab_3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KuznetsovDN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KuznetsovDN/PTPM-VKI-kuznetsov.git",
+    "accountId": "c68a7932-40d1-4282-963e-d3e3e062e045"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000031282437" />
+      <entry key="S2" value="1.0074786832671507" />
+      <entry key="S5" value="1.1411009885034709" />
+      <entry key="S10" value="1.375637256929842" />
+      <entry key="S30" value="1.7439991973843898" />
+      <entry key="S60" value="2.098411420276791" />
+      <entry key="M2" value="2.828876491348117" />
+      <entry key="M5" value="4.3107383006688735" />
+      <entry key="M10" value="5.545439617886951" />
+      <entry key="M15" value="6.1712436554185155" />
+      <entry key="M30" value="6.968541793800964" />
+      <entry key="H1" value="7.450184216498774" />
+      <entry key="H2" value="7.715872966908695" />
+      <entry key="H4" value="7.855537711003136" />
+      <entry key="D1" value="7.975581472462393" />
+      <entry key="W1" value="7.996503165351387" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9794202975869268" />
+      <entry key="MS500" value="0.9958497561967895" />
+      <entry key="S2" value="1.0064239674920108" />
+      <entry key="S5" value="1.1405678709588587" />
+      <entry key="S10" value="1.3752731439457198" />
+      <entry key="S30" value="1.7438271781732047" />
+      <entry key="S60" value="2.0983025627313143" />
+      <entry key="M2" value="2.8287969653146465" />
+      <entry key="M5" value="4.310679924651996" />
+      <entry key="M10" value="5.545396337680255" />
+      <entry key="M15" value="6.171209536868143" />
+      <entry key="M30" value="6.968521196760216" />
+      <entry key="H1" value="7.450172808062122" />
+      <entry key="H2" value="7.715866950779314" />
+      <entry key="H4" value="7.855534620194024" />
+      <entry key="D1" value="7.975580945407148" />
+      <entry key="W1" value="7.996503089760106" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3KIxyANAOMxM7aCyvAtoGOs6FqT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_delivery.py.executor": "Run",
+    "Python tests.Python tests in test_triangle.py.executor": "Run",
+    "Python.Delivery.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.triangle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Lab__4",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PTPM-VKI-kuznetsov\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1967628c-25b4-4f60-9658-49cf6ea030ce" name="Changes" comment="" />
+      <created>1791259135504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791259135504</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1791259748335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791259748335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1791260025817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791260025817</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3">
+      <option name="closed" value="true" />
+      <created>1791260890306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791260890306</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4">
+      <option name="closed" value="true" />
+      <created>1791263409165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791263409165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2">
+      <option name="closed" value="true" />
+      <created>1794851248285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1794851248285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3">
+      <option name="closed" value="true" />
+      <created>1794852041502</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1794852041502</updated>
+    </task>
+    <task id="LOCAL-00007" summary="4">
+      <option name="closed" value="true" />
+      <created>1794852062097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794852062097</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
+  </component>
+</project>
